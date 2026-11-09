@@ -139,5 +139,4 @@
 1.  **性能原则**：本项目高度重视服务器性能。任何地形破坏、高并发实体运算，若触及 TPS 瓶颈，将优先采用降级渲染或异步调度方案，绝不牺牲服务器稳定性。
 2.  **数值免责**：文档内提及的所有机制（如暴击、护盾恢复）均为初期设计框架。实际表现需待代码落地后在测试服进行动态平衡（Balancing）。
 3.  **版权声明**：本项目为个人学习与开源技术交流项目，不含任何未经授权的第三方版权美术资产。文档采用 CC BY-NC-SA 4.0 协议，转载或二次创作请注明出处且不可用于商业用途。
-4.  **反馈渠道**：欢迎通过 [Issues](../../issues) 提交技术建议或性能优化方案。请注意，本项目暂不接受“定制角色技能”等脱离框架的无理需求。# cursed-combat-framework
-A hardcore action RPG combat framework for Minecraft Forge 1.20.1. Featuring PRD critical strikes, energy shield economy, and domain collision mechanics. (Design Whitepaper WIP)
+4.  **反馈渠道**：欢迎通过 [Issues](../../issues) 提交技术建议或性能优化方案。请注意，本项目暂不接受“定制角色技能”等脱离框架的无理需求。
